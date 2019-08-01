@@ -35,10 +35,10 @@ education:
     year: 2015
   - course: M.Sc. in Finance
     institution: Universidad de Chile
-    year: 2012
+    year: 2009
   - course: B.A. in Economics
     institution: Universidad de Chile
-    year: 2012
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
