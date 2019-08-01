@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ercio Munoz Saavedra
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: CUNY Graduate Center
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include applied econometrics, financial economics, political economy, and socioeconomic inequality.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Applied Econometrics
+- Political Economy
+- Socioeconomic Inequality
 
 education:
   courses:
