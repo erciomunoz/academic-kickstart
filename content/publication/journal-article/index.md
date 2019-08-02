@@ -1,9 +1,8 @@
 ---
-title: "An example journal article"
+title: "Unit Nonresponse in the Current Population Survey"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
