@@ -2,6 +2,7 @@
 title: "Do Commodity Prices Shocks Have an Impact on Latin American Stock Markets?"
 authors:
 - admin
+- Mariel Siravegna
 date: "2013-12-01T00:00:00Z"
 doi: ""
 
