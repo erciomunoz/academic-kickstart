@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Santiago, Chile"
   date_start = "2010-02-01"
   date_end = "2014-08-30"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Research, forecasting, and adviser of a board member."""
 
 [[experience]]
   title = "Consultant at the Development Research Group (Human Development)"
