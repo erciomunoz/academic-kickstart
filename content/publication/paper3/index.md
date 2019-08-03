@@ -1,9 +1,9 @@
 ---
-title: "Do Earthquakes Have an Impact on Inflation in Short Term? Evidence for a sample of countries."
+title: "Using a FAVAR Model for Forecasting Copper Prices."
 authors:
+- Pablo Cruz
 - admin
-- Alfredo Pistelli
-date: "2010-08-01T00:00:00Z"
+date: "2012-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +16,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal the Chilean Economy, 13*(2)"
+publication: "*Journal the Chilean Economy, 15*(3)"
 publication_short: ""
 
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Earthquakes not always generate inflation in the short term.
+summary: A FAVAR model achieves superior performance--relative to 3 simple benchmarks--to forecast copper prices in horizons between 1 to 12 months ahead.
 
 tags:
 - Source Themes
@@ -31,7 +31,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://si2.bcentral.cl/public/pdf/revista-economia/2010/ago/recv13n2ago2010pp113-127.pdf
+url_pdf: http://si2.bcentral.cl/public/pdf/revista-economia/2012/dic/recv15n3dic2012pp84-95.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
