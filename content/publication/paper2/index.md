@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://si2.bcentral.cl/public/pdf/revista-economia/2010/ago/recv13n2ago2010pp113-127.pdf
+url_pdf: http://si2.bcentral.cl/public/pdf/revista-economia/2011/dic/recv14n3dic2011pp83-96.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
