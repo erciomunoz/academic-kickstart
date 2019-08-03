@@ -22,7 +22,7 @@ abstract: This study analyzes the behavior of stock prices around the ex-dividen
 
 
 # Summary. An optional shortened abstract.
-summary: Copper prices react positively to growth surprises in China.
+summary: The divided tax reduction affected the price drop ratios, consistent with the clienele effect hypothesis.
 
 tags:
 - Source Themes
@@ -31,8 +31,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
-url_code: https://www.sciencedirect.com/science/article/pii/S1044028316300795
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1044028316300795
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
