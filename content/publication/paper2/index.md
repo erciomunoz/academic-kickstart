@@ -1,8 +1,10 @@
 ---
-title: "Unit Nonresponse in the Current Population Survey 2"
+title: "An Evaluation of Forecasting Models for Copper Prices: Can we go beyond an Autoregression?"
 authors:
+- Eduardo Lopez
 - admin
-date: "2019-01-01T00:00:00Z"
+- Victor Riquelme
+date: "2011-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,13 +17,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Journal the Chilean Economy, 14*(3)"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Earthquakes not always generate inflation in the short term.
 
 tags:
 - Source Themes
@@ -30,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://si2.bcentral.cl/public/pdf/revista-economia/2010/ago/recv13n2ago2010pp113-127.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
