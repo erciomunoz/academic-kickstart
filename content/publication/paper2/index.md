@@ -20,10 +20,10 @@ publication_types: ["2"]
 publication: "*Journal the Chilean Economy, 14*(3)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Earthquakes not always generate inflation in the short term.
+summary:  For one-quarter ahead forecasting horizon, time series models are an appropriate choice, while for longer horizons the reduced-form models seem to be the most suitable.
 
 tags:
 - Source Themes
