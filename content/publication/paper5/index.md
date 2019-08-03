@@ -21,7 +21,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Stock prices in LAC react to commodity prices shocks.
+summary: Stock prices in LAC react to commodity prices' shocks.
 
 tags:
 - Source Themes
