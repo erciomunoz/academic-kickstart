@@ -22,7 +22,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: A FAVAR model achieves superior performance--relative to 3 simple benchmarks--to forecast copper prices in horizons between 1 to 12 months ahead.
+summary: A FAVAR model can beat three simple benchmarks between 1 to 12 months ahead.
 
 tags:
 - Source Themes
