@@ -21,7 +21,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Commodity prices can affect the sovereign spread.
+summary: Commodity prices can impact sovereign spreads.
 
 tags:
 - Source Themes
