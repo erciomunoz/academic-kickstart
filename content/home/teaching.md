@@ -13,7 +13,7 @@ subtitle = ""
 date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `[[teaching]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
@@ -34,5 +34,4 @@ date_format = "Jan 2006"
   date_start = "2014-03-01"
   date_end = "2014-07-01"
   description = """Introduction to macroeconomics."""
-
 +++
